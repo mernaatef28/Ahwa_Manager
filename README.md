@@ -40,7 +40,7 @@
 ## Manager user flow 
 <img src="https://github.com/mernaatef28/Ahwa_Manager/blob/main/assets/Green%20and%20Pale%20Yellow%20Simple%20Food%20Apps%20Instagram%20Post/2.png?raw=true" alt="project-screenshot"  >
 ## Customer user flow 
-<img src="https://github.com/mernaatef28/Ahwa_Manager/blob/main/assets/Green%20and%20Pale%20Yellow%20Simple%20Food%20Apps%20Instagram%20Post/3.png?raw=true" alt="project-screenshot"  >
+<img src="https://github.com/mernaatef28/Ahwa_Manager/blob/main/assets/Green%20and%20Pale%20Yellow%20Simple%20Food%20Apps%20Instagram%20Post/4.png?raw=true" alt="project-screenshot"  >
 ## SOLID & OOP Principles Used
 
 - **Single Responsibility**: Each class and module has one job, e.g., `MenuItem` is for item data, `MenuService` handles business logic, `MenuRepository` manages data access, and `OrderService` manages order workflows.
