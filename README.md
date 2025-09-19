@@ -2,8 +2,6 @@
 
 <p id="description">The Smart Ahwa App is a user-friendly and scalable application designed to manage a ahwa's menu orders and reports.with two interface user flow It allows managers to efficiently handle menu items track orders and generate reports on sales and performance and allow user to navigate through menu items and order . The app follows SOLID principles and OOP to ensure maintainability flexibility and ease of expansion.</p>
 
-<h2>🚀 Demo</h2>
-
 <h2>Project Screenshots:</h2>
 
 <img src="https://github.com/mernaatef28/Ahwa_Manager/blob/main/assets/Green%20and%20Pale%20Yellow%20Simple%20Food%20Apps%20Instagram%20Post/1.png?raw=true" alt="project-screenshot"  >
